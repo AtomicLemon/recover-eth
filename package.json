@@ -1,0 +1,22 @@
+{
+  "name": "recover-eth",
+  "version": "1.0.0",
+  "description": "Recover ETH private key from a personal Geth account",
+  "main": "index.js",
+  "dependencies": {
+    "keythereum": "1.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtomicLemon/recover-eth.git"
+  },
+  "author": "AtomicLemon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtomicLemon/recover-eth/issues"
+  },
+  "homepage": "https://github.com/AtomicLemon/recover-eth#readme"
+}
