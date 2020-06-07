@@ -1,6 +1,6 @@
 var keythereum = require("keythereum");
-var datadir = "/home/super/.ethereum/geth";
-var address = "0xc8096d713000002c77e4eb62f0000ead5f105a7e";
+var datadir = "/home/myusername/.ethereum";
+var address = "0xA84199E5d1E718C7c6a389f8d0fa21691be9B5bD";
 const password = "mypass";
 
 var keyObject = keythereum.importFromFile(address, datadir);
